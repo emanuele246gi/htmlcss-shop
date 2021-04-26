@@ -87,6 +87,17 @@
     padding-left: 10px;
   }
 
+  .descrizione-speciale{
+    position: absolute;
+    bottom: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 10px;
+    background-color: rgb(33, 195, 33);
+    vertical-align: middle;
+    padding: 0px 100px 0px;
+    border-radius: 2%;
+  }
+
   .prezzo-scontato{
     position: absolute;
     bottom: 10px;
