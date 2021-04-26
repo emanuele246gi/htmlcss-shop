@@ -89,12 +89,13 @@
 
   .descrizione-speciale{
     position: absolute;
-    bottom: 0px;
+    bottom: 15px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 10px;
-    background-color: rgb(33, 195, 33);
+    background-color: rgb(141, 209, 141);
     vertical-align: middle;
-    padding: 0px 100px 0px;
+    width: 330px;
+    padding: 9px 10px 9px;
     border-radius: 2%;
   }
 
